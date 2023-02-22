@@ -1,4 +1,4 @@
-#Welcome to the Baseball Birthday App
+# Welcome to the Baseball Birthday App
 
 Author: Jasper Gordon
 
