@@ -6,6 +6,7 @@ frontend:
         - npm install
     build:
       commands:
+        - cd baseballapp
         - npm install
         - npm run build
   artifacts:
